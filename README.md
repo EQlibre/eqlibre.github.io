@@ -1,2 +1,2 @@
 # eqlibre.github.io
-my personal page - cv
+My personal Website, including resume, portfolios and contacts
